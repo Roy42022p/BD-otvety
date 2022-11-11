@@ -12,7 +12,7 @@
 
 3.3 https://docs.google.com/document/d/1oQ14KOEK2ca-RWwJdFnSi0DFuza9Q0YCKVzBTE99J8o/edit?usp=sharing
 
-3.4 
+3.4 https://docs.google.com/document/d/1Cah8r8Lw1VitCNHCWHaQkoRc6Tjrzt_MiTgTC-dmX0E/edit?usp=sharing
 
 3.5 https://docs.google.com/document/d/1jrU5s3gLDq-IbrM6yIeV4U2K8npIGRaYk9xjc0BYF2s/edit?usp=sharing (Хузуржанов, Кочунов, Садретдинов)
 
