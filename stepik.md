@@ -1,6 +1,8 @@
 Ответы за задания в stepik Хузуржанов Акбар, Кочунов Антон
 
-1.1-1.8 https://docs.google.com/document/d/1PjXBqaET0jh5pfg5kCba-BeHNgHg0i7NwtwkY3vjNz0/edit?usp=drivesdk
+1.1-1.5 https://github.com/Roy42022p/BD-otvety/blob/main/scripts/SQL%20BOOK.sql
+
+1.6-2.1 https://docs.google.com/document/d/14uhM5IuCyg-dnikvUDI72KDwGwfSPC24y7s7ov_UKY0/edit?usp=sharing
 
 2.4 https://docs.google.com/document/d/1sQ4_KRGF6QVKt6Z94c9uF3ZtnP6um1l-1i8Vq-2PviY/edit?usp=sharing
 
