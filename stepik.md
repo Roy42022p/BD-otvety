@@ -6,9 +6,9 @@
 
 2.5 https://docs.google.com/document/d/1QqFs4i3l0MwOtoNFU7B_5Ue2HbDtz7_BVOD9Q3CQeRo/edit?usp=sharing
 
-3.1 
+3.1 https://docs.google.com/document/d/1PHil_cf_6-l16yb1CeCf8jMBEtzM1vaYwU9SY3Q8Md4/edit?usp=drivesdk
 
-3.2 
+3.2 https://docs.google.com/document/d/1g09YmHKrCGROJfq1Dpi5O9heqQ2Acy5lJYwLeAaHUBQ/edit?usp=drivesdk
 
 3.3 https://docs.google.com/document/d/1oQ14KOEK2ca-RWwJdFnSi0DFuza9Q0YCKVzBTE99J8o/edit?usp=sharing
 
